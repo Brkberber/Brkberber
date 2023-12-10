@@ -5,7 +5,6 @@ Junior Developer, Student
 -----------------------------------------
 
 * 🌍  I'm based in İstanbul
-* 🖥️  See my portfolio at [burakberber.site](https://burakberber.site)
 * ✉️  You can contact me at [brk.berber@hotmail.com](mailto:brk.berber@hotmail.com)
 * 🚀  I'm currently studying at [ITU MTAL](http://itumtal.meb.k12.tr)
 * 🧠  I'm learning Flutter, Python
