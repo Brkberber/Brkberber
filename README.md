@@ -51,6 +51,4 @@ Building mobile apps, web tools, and anything that solves a real problem.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brkberber&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Brkberber&theme=tokyonight&hide_border=true)
-
 </div>
